@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("utils.js is running!"),console.log("app.js is running!"),console.log(4*4),console.log(9),console.log(1)})();
